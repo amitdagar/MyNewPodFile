@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+"This is a cocoapod that extends the UIImageView Class with a convenience mehtod for rounding an image view with a spoecified border color and width.Enjoy"
                        DESC
 
-  s.homepage         = 'https://github.com/amitrawat1793@gmail.com/MyNewPodFile'
+  s.homepage         = 'https://github.com/amitdagar/MyNewPodFile'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'amitrawat1793@gmail.com' => 'amit.rawat@int.absas.net' }
-  s.source           = { :git => 'https://github.com/amitrawat1793@gmail.com/MyNewPodFile.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/amitdagar/MyNewPodFile.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  # s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
