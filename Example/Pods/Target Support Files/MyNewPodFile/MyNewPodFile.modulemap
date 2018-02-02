@@ -1,0 +1,6 @@
+framework module MyNewPodFile {
+  umbrella header "MyNewPodFile-umbrella.h"
+
+  export *
+  module * { export * }
+}

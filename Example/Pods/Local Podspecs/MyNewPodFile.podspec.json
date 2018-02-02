@@ -1,0 +1,22 @@
+{
+  "name": "MyNewPodFile",
+  "version": "0.1.0",
+  "summary": "A short description of MyNewPodFile.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/amitrawat1793@gmail.com/MyNewPodFile",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "amitrawat1793@gmail.com": "amit.rawat@int.absas.net"
+  },
+  "source": {
+    "git": "https://github.com/amitrawat1793@gmail.com/MyNewPodFile.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyNewPodFile/Classes/**/*"
+}

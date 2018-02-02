@@ -1,0 +1,16 @@
+PODS:
+  - MyNewPodFile (0.1.0)
+
+DEPENDENCIES:
+  - MyNewPodFile (from `../`)
+
+EXTERNAL SOURCES:
+  MyNewPodFile:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MyNewPodFile: 50d5fec19e167a16462f0a9785cc7a098595f5bc
+
+PODFILE CHECKSUM: aa032d7dd2ad0251bb851a587222fac970d039e5
+
+COCOAPODS: 1.2.1
